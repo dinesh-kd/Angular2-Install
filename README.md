@@ -1,5 +1,7 @@
 # Angular2Install
 
+[![Build Status](https://travis-ci.org/dinesh-kd/Angular2-Install.svg?branch=master)](https://travis-ci.org/dinesh-kd/Angular2-Install)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.0-beta.32.3.
 
 ## Development server
