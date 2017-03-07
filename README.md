@@ -2,6 +2,27 @@
 
 [![Build Status](https://travis-ci.org/dinesh-kd/Angular2-Install.svg?branch=master)](https://travis-ci.org/dinesh-kd/Angular2-Install)
 
+## Step 1
+
+### Install [node js] (https://nodejs.org/en/)
+
+## Step 2
+
+### Install [Angular CLI] (https://cli.angular.io/)
+
+```bash
+npm install -g @angular/cli
+```
+
+## Step 3
+
+### Create new project
+
+```bash
+ng new Angular2-Install
+cd Angular2-Install
+```
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
